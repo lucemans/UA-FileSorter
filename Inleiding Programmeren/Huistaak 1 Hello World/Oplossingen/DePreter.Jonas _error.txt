@@ -1,0 +1,4 @@
+  File "/home/luc/Documents/sortmafiles/Inleiding Programmeren/Huistaak 1 Hello World/DePreter.Jonas/extra.py", line 2
+    
+                        ^
+SyntaxError: invalid syntax
