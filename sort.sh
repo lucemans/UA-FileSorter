@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# Author
+# Luc van Kampen
+# Time of Writing 00:30 November 9th
+
 # Show een klein help menu
 if [ -z "$1" ]; then
     echo "Arguments: <tar-file> <script>"
